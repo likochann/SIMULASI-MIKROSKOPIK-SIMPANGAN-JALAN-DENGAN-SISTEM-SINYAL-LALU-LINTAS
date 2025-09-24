@@ -1,3 +1,5 @@
+//ini testt saja buat lihat diff
+
 import { drawTengah } from './draw/tengah.js';
 import { drawUtara } from './draw/utara.js';
 import { drawSelatan } from './draw/selatan.js';
@@ -58,3 +60,4 @@ function drawLayout() {
 
 // Gambar pertama kali
 drawLayout();
+
